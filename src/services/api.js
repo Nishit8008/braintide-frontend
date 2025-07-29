@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 // Define the base URL for our backend API
-const API_URL = 'https://braintide-backend.onrender.com';
+const API_URL = 'https://braintide-backend.onrender.com/api';
 
 // Create an axios instance with default configuration
 const api = axios.create({
