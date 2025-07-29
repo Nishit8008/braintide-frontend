@@ -1,12 +1,24 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🚀 Braintide is Live!
+I’m excited to share my latest project — **Braintide**, a full‑stack blogging platform for free minds and open ideas 🌊🧠.
+---
+## 🔍 What is Braintide?
+Braintide is a space for **freedom of thought** — users can create, edit, and publish blogs, manage drafts, and explore posts from other authors.
+---
+## ⚡ Features
+- ✍️ Create, edit, publish blog posts  
+- 📝 Draft & manage your posts privately  
+- 🔐 Secure JWT authentication  
+- 🌐 Fully responsive UI (Tailwind CSS + Vite)  
+- ☁️ Live deployment (Frontend on Vercel, Backend on Render, DB on MongoDB Atlas)  
+---
+## 🛠 Tech Stack
+**Frontend:** React (Vite) + Tailwind CSS  
+**Backend:** Node.js + Express.js + JWT Auth  
+**Database:** MongoDB Atlas  
+**Deployment:** Vercel (Frontend) + Render (Backend)
+---
+## 🌍 Live Demo
+🔗 **[Try Braintide here](https://your-vercel-link.vercel.app)**  
+📂 **[View Source Code](https://github.com/yourusername)**  
+---
+💭 I’d love your feedback! Try it out, create a post, and let me know what you think.
