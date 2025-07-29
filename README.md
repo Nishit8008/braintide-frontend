@@ -18,7 +18,7 @@ Braintide is a space for **freedom of thought** — users can create, edit, and 
 **Deployment:** Vercel (Frontend) + Render (Backend)
 ---
 ## 🌍 Live Demo
-🔗 **[Try Braintide here](https://your-vercel-link.vercel.app)**  
-📂 **[View Source Code](https://github.com/yourusername)**  
+🔗 **[Try Braintide here](https://braintide-frontend.vercel.app/)**  
+📂 **[View Source Code](https://github.com/Nishit8008)**  
 ---
 💭 I’d love your feedback! Try it out, create a post, and let me know what you think.
